@@ -1,0 +1,116 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+header{
+    width: 100;
+    height: 60yh;
+    overflow: hidden;
+    position: relative;
+    object-fit: cover;
+}
+.nav{
+    /* display: flex; */
+    background: url(Marketing_LandingFeatured_Redesign\ \(1\).webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* width: 100vw; */
+    height: auto;
+    min-height: 100vh;
+    color: aliceblue;
+    /* justify-content: space-between; */
+    
+
+}
+.home-buttons{
+    font-size: 24;
+    padding-right: 130px;
+    padding-top: 30px;
+    margin: 0 4px;
+    color: aliceblue;
+}
+.home-buttons a{
+    margin: 4;
+    padding: 0 8px;
+    text-decoration: none;
+    color: aliceblue;
+    /* padding: 4;
+    display: flex;
+    width: 24vw; */
+}
+.bg{
+    position: relative;
+}
+.title-description{
+    width: 100vw;
+    padding-top: 90px;
+    padding-right: 250px;
+}
+.star{
+    font-size: 25px;
+    padding-left: 40px;
+}
+.button {
+    background-color: aliceblue; 
+    border: none;
+    color: black;
+    /* padding: 15px 32px; */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .left {
+  
+    background-color: black;
+    width: 100vw;
+    display: flex;
+    
+  }
+  .right{
+      font-size: 2rem;
+      text-align: left;
+      padding-left: 65px;
+      padding-top: 55px;
+      
+  }
+  .right h2{
+      font-size: 38px;
+  }
+  .right p{
+      font-size: 14px;
+  }
+  .left1{
+    font-size: 2rem;
+    text-align: left;
+    padding-left: 0px;
+    padding-top: 55px;
+    width: 50vw;
+    
+}
+.right1 {
+  
+    background-color: black;
+    width: 100vw;
+    display: flex;
+    width: 50vw;
+}
+.center{
+    background: url(https://api.starlink.com/public-files/Marketing_LandingTravel_Redesign.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: auto;
+    min-height: 100vh;
+}
+.center-text{
+    padding-left: 120px;
+    padding-top: 100px;
+}
+.center-para{
+    padding-left: 120px;
+}
+.center-but{
+    padding-left: 120px;
+}
